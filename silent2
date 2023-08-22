@@ -16,7 +16,7 @@
 		Settings = {
 			rewrittenmain = {
 				Enabled = true,
-				Key = "Z",
+				Key = "z",
 				DOT = true,
 				AIRSHOT = true,
 				NOTIF = true,
